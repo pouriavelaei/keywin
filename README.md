@@ -36,4 +36,4 @@ Use of this script may violate Microsoft's terms of service. The author takes no
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/agpl-3.0/)
+[GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)
