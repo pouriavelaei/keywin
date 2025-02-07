@@ -36,4 +36,4 @@ Use of this script may violate Microsoft's terms of service. The author takes no
 
 ## License
 
-[G]([(https://choosealicense.com/licenses/agpl-3.0/)])
+[MIT](https://choosealicense.com/licenses/agpl-3.0/)
